@@ -20,6 +20,11 @@ An AI-powered insurance claims processing assistant. It uses a custom Machine Le
                              +----------------------+
 ```
 
+## Preview
+
+<img width="1532" height="1095" alt="image" src="https://github.com/user-attachments/assets/32f63ef4-0c32-466e-a34b-a38cdeae3928" />
+
+
 ## Prerequisites
 - Node.js (v18+)
 - Python 3.10+
